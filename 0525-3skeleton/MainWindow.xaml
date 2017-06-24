@@ -1,0 +1,20 @@
+﻿<Window x:Class="_0525_3skeleton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" SizeToContent="WidthAndHeight"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing" Height="463" Width="643"
+        >
+    <Grid>
+        <Label x:Name="lblTitle" Content="Label" Canvas.Left="43" Canvas.Top="37" Width="206"/>
+        <Canvas x:Name="CanvasBody" Height="358" VerticalAlignment="Bottom" Margin="62,0,137,66" />
+        <Button x:Name="cmdConnect" Content="Connect" HorizontalAlignment="Left" Margin="503,69,0,0" VerticalAlignment="Top" Width="75" Click="cmdConnect_Click"/>
+        <ComboBox x:Name="comboCOMMPorts" HorizontalAlignment="Left" Margin="503,42,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="cmdEchoOff" Content="Echo Off" HorizontalAlignment="Left" Margin="503,119,0,0" VerticalAlignment="Top" Width="75" Click="cmdEchoOff_Click"/>
+        <Button x:Name="cmdEchoOn" Content="Echo On" HorizontalAlignment="Left" Margin="503,94,0,0" VerticalAlignment="Top" Width="75" Click="cmdEchoOn_Click"/>
+        <Button x:Name="cmdSearch" Content="Search" HorizontalAlignment="Left" Margin="503,144,0,0" VerticalAlignment="Top" Width="75" Click="cmdSearch_Click"/>
+        <Button x:Name="cmdStopSearch" Content="Stop Search" HorizontalAlignment="Left" Margin="503,169,0,0" VerticalAlignment="Top" Width="75" Click="cmdStopSearch_Click"/>
+        <Button x:Name="cmdsconnectBlootooth" Content="Connect" HorizontalAlignment="Left" Margin="503,194,0,0" VerticalAlignment="Top" Width="75" Click="cmdsconnectBlootooth_Click"/>
+        <Button x:Name="cmdbuzzer" Content="Buzzer" HorizontalAlignment="Left" Margin="503,219,0,0" VerticalAlignment="Top" Width="75" Click="cmdbuzzer_Click"/>
+    </Grid>
+</Window>

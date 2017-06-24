@@ -1,0 +1,362 @@
+﻿'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\bin\Debug\0525-3skeleton.vshost.exe' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Kinect\v4.0_2.0.0.0__31bf3856ad364e35\Microsoft.Kinect.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+スレッド 0x1f48 はコード 259 (0x103) で終了しました。
+スレッド 0x16f4 はコード 259 (0x103) で終了しました。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\bin\Debug\0525-3skeleton.exe' が読み込まれました。シンボルが読み込まれました。
+ステップ イン: 非ユーザー コード '_0525_3skeleton.App..ctor' をステップ オーバーしています
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+ステップ イン: 非ユーザー コード '_0525_3skeleton.App.Main' をステップ オーバーしています
+ステップ イン: 非ユーザー コード '_0525_3skeleton.App.InitializeComponent' をステップ オーバーしています
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ja_b77a5c561934e089\mscorlib.resources.dll' が読み込まれました。モジュールがシンボルなしでビルドされました。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.resources\v4.0_4.0.0.0_ja_31bf3856ad364e35\PresentationFramework.resources.dll' が読み込まれました。モジュールがシンボルなしでビルドされました。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXml\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXml.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll' が読み込まれました。シンボルの読み込みをスキップしました。モジュールは最適化されていて、デバッグ オプションの [マイ コードのみ] 設定が有効になっています。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework-SystemXmlLinq\v4.0_4.0.0.0__b77a5c561934e089\PresentationFramework-SystemXmlLinq.dll' が読み込まれました。PDB ファイルを開けないか、ファイルが見つかりません。
+'0525-3skeleton.vshost.exe' (CLR v4.0.30319: 0525-3skeleton.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationCore.resources\v4.0_4.0.0.0_ja_31bf3856ad364e35\PresentationCore.resources.dll' が読み込まれました。モジュールがシンボルなしでビルドされました。
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+Waved
+スレッド 0x15bc はコード 0 (0x0) で終了しました。
+スレッド 0xc90 はコード 259 (0x103) で終了しました。
+スレッド 0xd30 はコード 259 (0x103) で終了しました。
+プログラム '[5228] 0525-3skeleton.vshost.exe' はコード 0 (0x0) で終了しました。

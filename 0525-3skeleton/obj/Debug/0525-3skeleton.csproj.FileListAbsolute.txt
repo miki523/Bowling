@@ -1,0 +1,13 @@
+c:\users\ag14091\documents\visual studio 2013\Projects\0525-3skeleton\0525-3skeleton\bin\Debug\0525-3skeleton.exe.config
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\bin\Debug\0525-3skeleton.exe
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\bin\Debug\0525-3skeleton.pdb
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton.csprojResolveAssemblyReference.cache
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\MainWindow.baml
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\MainWindow.g.cs
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\App.g.cs
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton_MarkupCompile.cache
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton.g.resources
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\_0525_3skeleton.Properties.Resources.resources
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton.csproj.GenerateResource.Cache
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton.exe
+C:\Users\ag14091\Documents\Visual Studio 2013\Projects\0525-3skeleton\0525-3skeleton\obj\Debug\0525-3skeleton.pdb
